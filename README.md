@@ -31,6 +31,15 @@ The project includes:
 * Sales Over Time
 * Top 10 Products by Sales
 
+## Dashboard Preview
+
+### Power BI Dashboard
+
+![Power BI Dashboard](screenshots/power-bi-dashboard.png)
+
+### Excel Dashboard
+
+![Excel Dashboard](screenshots/excel-dashboard.png)
 ## Business Insights
 
 ### 1. Sales by Category
